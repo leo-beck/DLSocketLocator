@@ -14,6 +14,8 @@ Cite as:
   doi={https://doi.org/10.1007/s11740-024-01299-7}
 }
 ```
+### Demo Video
+https://github.com/user-attachments/assets/f52c05ad-1d89-430a-b301-2ec1e26fb795
 
 ### Abstract
 The mating of electrical connectors (ECs) is predominantly carried out manually in today’s production due to small required tolerances between the plug and its socket. Automating this process offers economic incentives due to the widespread use of ECs. To achieve this, a deep learning-based 2D computer vision system is proposed for a precise localization of sockets. Herefore, a modified U-Net for keypoint prediction with heatmaps is developed and tailored for a production-like scenario. This method outperforms a commercial state-of-the-art template-based matching algorithm on five out of six EC types. In an experimental evaluation, the robot autonomously mated 75–100% of ECs successfully, depending on the EC type.
